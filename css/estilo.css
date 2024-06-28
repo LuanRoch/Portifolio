@@ -28,7 +28,7 @@ body {
 
 section {
     padding: 1rem 5%;
-    min-height: 100vh;
+    min-height: auto;
 }
 
 .heading {
@@ -217,7 +217,7 @@ header .follow a:hover {
 
 .about .row-1 .image img {
     height: 100%;
-    width: 100%;
+    width: 50px;
     object-fit: cover;
     border: 1rem solid #fff;
     border-radius: .5rem;
